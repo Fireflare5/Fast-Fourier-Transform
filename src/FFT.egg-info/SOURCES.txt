@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+src/FFT/FFT.c
+src/FFT/FFT.h
+src/FFT/__init__.py
+src/FFT/core.c
+src/FFT/core.pyi
+src/FFT/core.pyx
+src/FFT.egg-info/PKG-INFO
+src/FFT.egg-info/SOURCES.txt
+src/FFT.egg-info/dependency_links.txt
+src/FFT.egg-info/requires.txt
+src/FFT.egg-info/top_level.txt

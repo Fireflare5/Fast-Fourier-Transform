@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=84.2.1", "Cython>=3.3.1","numpy>=2.5.4",]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "FFT"
+version = "0.1.0"
+authors = [
+    { name="Canon Sparks", email="canonsparks@icloud.com" },
+]
+description = "C base FFT implementation for Python"
+readme = "README.md"
+requires-python = ">=3.15.2"
+dependencies = [
+    "numpy>=2.5.4",
+]
